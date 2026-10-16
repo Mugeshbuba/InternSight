@@ -25,3 +25,7 @@ Thumbs.db
 # Database
 *.db
 *.sqlite3
+
+# User-uploaded resumes — personal data, never commit
+backend/uploads/
+uploads/
